@@ -1,2 +1,2 @@
 # GenericRecycler
- Basic Recycler to show models info that can be changed. Android Studio
+Small recycler that allows to display the attributes of the entities with the option to modify them. Android Studio
